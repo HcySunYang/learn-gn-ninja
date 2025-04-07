@@ -1,5 +1,7 @@
 # Learn GN & Ninja
 
+[GN Doc](https://gn.googlesource.com/gn/+/main/docs/reference.md)
+
 1. install GN and make sure that the gn command is available
 2. install Ninja and make sure that the ninja command is available
 3. run `gn gen out/Default`
