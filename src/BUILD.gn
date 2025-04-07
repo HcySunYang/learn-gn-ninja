@@ -1,0 +1,6 @@
+
+executable("hcy") {
+  sources = [
+    "main.cc",
+  ]
+}

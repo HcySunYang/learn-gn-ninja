@@ -1,0 +1,5 @@
+group("default") {
+  deps = [
+    "//src:hcy",       # Include the src directory
+  ]
+}

@@ -1,0 +1,3 @@
+# its doc https://gn.googlesource.com/gn/+/main/docs/reference.md#dotfile
+# the buildconfig is the only one that is required
+buildconfig="//build/BUILDCONFIG.gn"
